@@ -5,3 +5,7 @@
 const nish= 20000
 console.log(nish)
 
+
+
+
+
