@@ -1,4 +1,4 @@
-let score ="33"
+let score ="40"
 // let score ="33asad"
 
 
