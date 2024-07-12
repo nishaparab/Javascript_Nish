@@ -26,3 +26,31 @@ let myObj=
 const myFunction = function(){
     console.log("Hello World");
 }
+
+
+
+// *********************************************************
+
+// stack (premitive), Heap (Non-premitive)
+
+let myYoutubename = "nishaparab"
+
+let anothername = myYoutubename
+ anothername = "nish"
+
+ console.log(myYoutubename);
+ console.log(anothername);
+
+
+ let userOne = {
+    email:"user@google.com",
+    upi: "user@ybl"
+ }
+
+ let userTwo = userOne
+
+ userTwo.email = "nish@gmail.com"
+
+ console.log(userOne.email);
+ console.log(userTwo.email);
+ 
