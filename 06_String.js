@@ -42,3 +42,7 @@ console.log(url.includes('nish'))
 console.log(gameName.split('-'));
 
 
+
+
+
+
